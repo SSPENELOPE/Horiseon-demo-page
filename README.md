@@ -8,7 +8,7 @@
 -changes where made to organize the css and divide it by its matching section in the HTML page
 -motivation to build this page was to get my certification in school
 
-# there is no istallation requirments for this page. The live page should currently be working where you can view and use the page
+# there is no installation requirments for this page. The live page should currently be working where you can view and use the page
 
 # Usage
 -view the page and feel free to click the links at the top of the page. They are currently working and will take you to the respective area of the webpage
