@@ -17,6 +17,7 @@
 
 ![alt text](assets/images/Horiseon%20Screenshot.png)
 
+- You can view and use the page at (https://sspenelope.github.io/Horiseon-demo-page/)
 
 # Credits
 - UofM coding bootcamp for the base code
