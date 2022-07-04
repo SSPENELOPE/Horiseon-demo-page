@@ -13,7 +13,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-/**added hover element to show what user is selecting**/
+/**added hover element to show what the user is selecting**/
 a:hover {
     color: yellow;
 }
@@ -23,7 +23,7 @@ p {
 }
 
 
-/**header**/
+/**Header/Navbar**/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +58,7 @@ p {
 }
 
 
-/**main page sections**/
+/**Main page sections**/
 .hero {
     height: 800px;
     width: 100%;
