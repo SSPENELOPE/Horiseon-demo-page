@@ -27,7 +27,7 @@
 # No Badges at this time
 
 # Features
--Working Anchor links at the top of the page
+- Working Anchor links at the top of the page
 
 ## How to contribute
 - put in a pull request and it will accept it
