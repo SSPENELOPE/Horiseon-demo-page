@@ -13,7 +13,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/**added hover element to show what user is selecting**/
 a:hover {
     color: yellow;
 }
