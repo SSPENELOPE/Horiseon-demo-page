@@ -13,9 +13,9 @@
 # Usage
 -view the page and feel free to click the links at the top of the page. They are currently working and will take you to the respective area of the webpage
 
-'''md
+
 ![alt text](assets/images/Horiseon%20Screenshot.png)
-'''
+
 
 # Credits
 -UofM coding bootcamp for the base code
